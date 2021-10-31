@@ -24,7 +24,7 @@ git push origin master
 cd ..
 
 
-# blog 저장소 Commit & Push
+# Commit & Push
 git add .
 
 msg="rebuilding site `date`"
