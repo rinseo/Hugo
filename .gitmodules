@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/rinseo/rinseo.github.io.git
 	branch = master
+[submodule "themes/hugo-sustain"]
+	path = themes/hugo-sustain
+	url = https://github.com/nurlansu/hugo-sustain.git
